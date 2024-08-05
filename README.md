@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌻 I'm Informatics Student Universitas Muhammadiyah Malang<br>👩🏻‍💻 I'm currently learning vue js and kotlin<br>☀️ In my free time I create a dummy project and playing games like genshin impact or honkai star rail</p>
+<p align="left">🌻 I'm Informatics Student Universitas Muhammadiyah Malang<br>👩🏻‍💻 I'm currently learning vue js and kotlin<br>☀️ In my free time I create a dummy project</p>
 
 ###
 
