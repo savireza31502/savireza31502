@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/savireza315/savireza315/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/savireza315/savireza31502/output/snake.svg" alt="Snake animation" />
 
 ###
